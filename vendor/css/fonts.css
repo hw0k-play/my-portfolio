@@ -1,0 +1,20 @@
+@font-face {
+  font-family: LeagueMono;
+  src:
+    url(./../fonts/LeagueMono/LeagueMono-Light.woff2) format("woff2"),
+    url(./../fonts/LeagueMono/LeagueMono-Light.woff) format("woff"),
+    url(./../fonts/LeagueMono/LeagueMono-Light.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: LeagueMono;
+  font-weight: 700;
+  src:
+    url(./../fonts/LeagueMono/LeagueMono-SemiBold.woff2) format("woff2"),
+    url(./../fonts/LeagueMono/LeagueMono-SemiBold.woff) format("woff"),
+    url(./../fonts/LeagueMono/LeagueMono-SemiBold.ttf) format("truetype")
+}
+
+* {
+  font-family: "LeagueMono", "Noto Sans KR", sans-serif;
+}
