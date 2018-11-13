@@ -24,7 +24,7 @@ const activitiesData = [
     https://designchallenge.xyz 사이트를 참고하여 현재 보고 있는 페이지를 제작했습니다.
     
     Pure HTML/CSS/JS`,
-    link: null
+    link: "https://hw0k.github.io/my_portfolio/"
   },
   {
     title: "GimbapHeaven",
